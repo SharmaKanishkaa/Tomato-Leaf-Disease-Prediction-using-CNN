@@ -1,4 +1,4 @@
-# 🍃 🍅 **Tomato Leaf Disease Classification
+# 🍃 🍅 Tomato Leaf Disease Classification
 
 This project focuses on building a deep learning model to classify tomato leaf diseases from images. The dataset consists of labeled images of tomato leaves affected by various diseases. The model is trained using **Convolutional Neural Networks (CNNs)** to automatically classify leaf diseases and help farmers identify plant health issues.
 
